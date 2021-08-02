@@ -8,23 +8,12 @@ usage：描述贫困县脱贫攻坚实例，毛概制作汇报视频用，如需
 
 效果：灰度以及边缘化
 
-原图1：
-
-![压水井](\images\压水井.jpg)
-
-处理后:
-
-![压水井2](\images\压水井2.jpg)
-
-原图2：
-
-<img src="\images\厨房.jpg" alt="厨房" style="zoom:37%;" />
+<div style = 'color:#0000FF' align = 'center'>
+<img title = '原图' src = 'images/压水井.jpg' width = '430'/> 
+    <img src = 'images/压水井2.jpg' width = '430'/>
+    <img src = 'images/厨房.jpg' width = '430'/> 
+    <img src = 'images/厨房2.jpg' width = '430'/>
+</div>
 
 
-
-
-
-效果2：
-
-<img src="\images\厨房2.jpg" alt="厨房2" style="zoom:37%;" />
 
